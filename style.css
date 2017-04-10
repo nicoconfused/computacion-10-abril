@@ -1,8 +1,8 @@
 header,section,aside,footer{
-  background:silver;
+  background:#fff;
 }
 @media screen and (max-width:768px){
   header, section, aside, footer{
-    background:black;
+    background:#fff;
     }
   }
